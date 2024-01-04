@@ -44,7 +44,7 @@ These specific objectives are designed to address each of the research questions
 
 Data
 
-Utilizing the King County Housing Data Set, which encompasses details such as house size, location, condition, and various features, this project endeavors to construct an advanced multiple regression model. The primary objective is to develop a predictive model that can accurately estimate a house's price by incorporating the key factors. The emphasis is on optimizing the model's precision to enable effective predictions in the dynamic real estate landscape of King County.
+Utilizing the King County Housing Data Set [king county data set ](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?resource=download)  which encompasses details such as house size, location, condition, and various features, this project endeavors to construct an advanced multiple regression model. The primary objective is to develop a predictive model that can accurately estimate a house's price by incorporating the key factors. The emphasis is on optimizing the model's precision to enable effective predictions in the dynamic real estate landscape of King County.
 
 ### Column Names and descriptions for King County Data Set
 * **id** - unique identified for a house
@@ -71,26 +71,29 @@ Utilizing the King County Housing Data Set, which encompasses details such as ho
   
 ### Findings, Conclusion & Recommendations:
 
-![png](Phase2_Project_files/Phase2_Project_76_0.png)
+![Finding](https://github.com/dukebaya/dsc-phase-2-project-v2-3/assets/133040698/6d75c8ed-4f47-41a4-9759-257f8572c31f)
+
 
 Age of the house vs Price
 
-![png](Phase2_Project_files/Phase2_Project_84_0.png)
+
+![Age of house](https://github.com/dukebaya/dsc-phase-2-project-v2-3/assets/133040698/b8f32c27-88be-403a-aa64-7cea1a7becbe)
 
 Grade vs Price
 
-![png](Phase2_Project_files/Phase2_Project_86_0.png)
 
+![Grade](https://github.com/dukebaya/dsc-phase-2-project-v2-3/assets/133040698/e4970079-63c2-4937-8563-7cbe2e399618)
 
-![png](Phase2_Project_files/Phase2_Project_86_1.png)
 
 Seasonal Pricing
 
-![png](Phase2_Project_files/Phase2_Project_88_0.png)
+![Seasonal Pricing](https://github.com/dukebaya/dsc-phase-2-project-v2-3/assets/133040698/173204b0-cb22-4c94-9668-8bd343112c56)
+
 
 Location vs Price
 
-![png](Phase2_Project_files/Phase2_Project_90_1.png)
+![Location](https://github.com/dukebaya/dsc-phase-2-project-v2-3/assets/133040698/cb519cd4-7cbf-4840-bffc-7a0ec16d7ec7)
+
 
 ### Conclusion:
 Positive Influencers on Price:
