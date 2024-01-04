@@ -157,9 +157,9 @@ Assess the impact of external factors such as new infrastructure developments, z
 By continuously leveraging data analytics and staying attuned to market trends, Premiere Property Group can maintain a competitive edge in the dynamic King County real estate market.
 
 ## Authors 
-[Philip Mweri](https://github.com/dukebaya)
-[Chepkemoi Ruto](https://github.com/LCR2022)
-[Moses Wanja](https://github.com/moseskigo)
-[Mark Kamau](https://github.com/BigmanMKG)
-[Stephanie Mwai](https://github.com/stephaniemwai)
+[Philip Mweri](https://github.com/dukebaya)\
+[Chepkemoi Ruto](https://github.com/LCR2022)\
+[Moses Wanja](https://github.com/moseskigo)\
+[Mark Kamau](https://github.com/BigmanMKG)\
+[Stephanie Mwai](https://github.com/stephaniemwai)\
 [Miriam Ongare](https://github.com/Miriam-Ivy)
