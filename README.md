@@ -158,13 +158,8 @@ By continuously leveraging data analytics and staying attuned to market trends, 
 
 ## Authors 
 [Philip Mweri](https://github.com/dukebaya)
-
 [Chepkemoi Ruto](https://github.com/LCR2022)
-
 [Moses Wanja](https://github.com/moseskigo)
-
 [Mark Kamau](https://github.com/BigmanMKG)
-
 [Stephanie Mwai](https://github.com/stephaniemwai)
-
 [Miriam Ongare](https://github.com/Miriam-Ivy)
