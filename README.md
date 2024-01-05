@@ -1,7 +1,8 @@
 # Optimizing Real Estate Pricing Strategy for Maximized Profits.
 
 
-![Phase2_Project_2_0](https://github.com/moseskigo/dsc-phase-2-project-v2-3/assets/143738914/7f8f0015-5130-487b-a0ed-bce9980128ec)
+![image](https://github.com/moseskigo/dsc-phase-2-project-v2-3/assets/143738914/1a9c6c1b-23e8-41ed-a71b-f3594630dd07)
+
 
 
 ## Project Overview:
