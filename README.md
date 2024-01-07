@@ -36,10 +36,6 @@ Specific Objectives
 
 **Effect of Views and Waterfront Accessibility:** Quantify the extent to which views and waterfront accessibility influence property pricing, and determine the value addition of these features to the overall property valuation.
 
-**Waterfront Price Correlation Analysis:** Specifically analyze how the presence of a waterfront correlates with house prices and the premium it adds to property values.
-
-**Grade Score Correlation Study:** Examine the relationship between the newly engineered grade score and selling prices, to understand how this metric reflects on property valuation.
-
 These specific objectives are designed to address each of the research questions in detail, providing a structured approach to understanding the key drivers of house prices in King County. This approach will enable Premiere Property Group to make informed, data-backed decisions in their pricing strategies.
 
 ### The Data
